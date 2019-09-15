@@ -9,6 +9,8 @@ NOTICE : PLATFORM FILE Out Kernel file :
 Lke that :- 
 
 $ ls
+
+
 Kernel  PLATFORM  README.md
 
 
