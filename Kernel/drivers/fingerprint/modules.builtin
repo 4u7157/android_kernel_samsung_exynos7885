@@ -1,0 +1,2 @@
+kernel/drivers/fingerprint/gf_common.ko
+kernel/drivers/fingerprint/gf_platform.ko
